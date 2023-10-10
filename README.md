@@ -1,4 +1,4 @@
-# Artifact for Type Error Localization
+# Artifact for Type Error Localization and Recovery with Holes
 
 This is the artifact for "Total Type Error Localization and Recovery with Holes", submitted to the
 POPL 2024 Artifact Evaluation process.
