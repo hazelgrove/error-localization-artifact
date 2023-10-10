@@ -3,10 +3,6 @@
 This repository contains the full formalism and Agda mechanization for the marked lambda calculus, a
 judgmental framework for bidirectional type error localization and recovery.
 
-## Formalism
-
-The formalism may be built from LaTeX via `make formalism.pdf`.
-
 ## Mechanization
 
 All semantics and metatheorems are mechanized in the Agda proof assistant. To check the proofs, an
